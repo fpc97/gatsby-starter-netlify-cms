@@ -1,5 +1,5 @@
 ---
-introduction: Nosotros somos los mas grosos
+introduction: Nosotros somos los mas grososdsdsd
 team-members:
   - photo: static/img/persona-avatar.jpg
     nombre: f
